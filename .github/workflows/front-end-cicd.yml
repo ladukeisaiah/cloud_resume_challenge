@@ -3,7 +3,7 @@ name: Upload website to S3
 on:
   push:
     branches:
-    -main
+    - main
 
 jobs:
   deploy:
@@ -20,4 +20,3 @@ jobs:
         AWS_REGION: 'us-east-1'
         SOURCE_DIR: 'website'
 
-        
