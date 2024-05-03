@@ -4,6 +4,7 @@ async function updateCounter() {
     let response = await fetch("https://gh6l2hlnnmw5ipkvru5o4xxewq0sqoot.lambda-url.us-east-1.on.aws/");
     let data = await response.json();
     counter.innerHTML = ` Views: ${data}`;
+    console.log(` These are the Views: ${data}`);
 }
 
 updateCounter();
