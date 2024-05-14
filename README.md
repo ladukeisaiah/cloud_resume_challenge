@@ -10,6 +10,9 @@ Hey there! Welcome to my journey through the **Cloud Resume Challenge**. This pr
 - AWS Lambda
 - Dynamo DB
 - Github Actions
+- JavaScript
+- HTML
+- CSS
 
 Here’s how I tackled each step:
 
