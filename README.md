@@ -60,7 +60,7 @@ Testing is crucial, so I wrote tests for my Python code to ensure everything run
 
 ### 12. Infrastructure as Code (IaC)
 
-I defined my infrastructure using AWS SAM.
+I defined my infrastructure using Terraform.
 
 ### 13. Source Control
 
